@@ -1,5 +1,6 @@
 % Script to Calculate and plot Safe Operating Area (SOA) from:
 % R_DS(on), I_DS(max), P(max), V_DS(max)
+% Thermal instability region not taken into account!
 
 % Parameters
 R_DS_on = 44/1000;    % On-resistance (Ohms)

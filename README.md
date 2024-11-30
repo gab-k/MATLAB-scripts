@@ -5,3 +5,5 @@ Script to Calculate and plot Safe Operating Area (SOA) from:
 - I_DS(max)
 - P(max)
 - V_DS(max)
+
+Thermal instability region not taken into account!
